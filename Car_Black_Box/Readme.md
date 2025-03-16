@@ -6,6 +6,3 @@ This project emulates a very basic car black box and logs events occuring to the
 
 ## Build Instructions
 You need to have MPLAB X IDE V 5.35 and XC8 Compiler V3.00 or V1.35 to compile the program.
-
-### Execution
-The demo video is provided to see the program output.
